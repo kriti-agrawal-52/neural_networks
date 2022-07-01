@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# macOS and Linux system files
+.DS_Store
+Thumbs.db
+
+#organisation files
+organiser.py
